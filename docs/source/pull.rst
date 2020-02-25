@@ -7,7 +7,7 @@ Contributing to the documentation
 Making a pull request
 *********************
 
-Use your NCSU Github account to submit a pull request from the git repo <Insert final Github location here>.
+Use your NCSU Github account to submit a pull request from the `git repo <https://github.com/wkohlway/NCSU_deBUG/>`_.
 
 
 
