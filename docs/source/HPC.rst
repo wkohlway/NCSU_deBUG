@@ -35,8 +35,8 @@ HPC staff cannot install and maintain every application that may be used by the 
 
 Here are some of the existing resources supporting the installation of bioinformatics software.
 
-*       The software group 'bioinfo' contains several Conda environments (QIIME2, DADA2) and some other applications including SPAdes, Canu, and Trimmomatic.
-*       The software group 'spack' contains `a wide variety of bioinformatics packages <https://projects.ncsu.edu/hpc/Software/examples/spack/current.html>`_, although they are usually not the latest versions. 
+*       `The software group 'bioinfo' <https://docs.google.com/document/d/1G_1zKmWws3g3PTCS9gfOv94Gd96rr6QDo2pHYMTtdkY/edit>`_ contains several Conda environments (QIIME2, DADA2) and some other applications including SPAdes, Canu, and Trimmomatic.
+*       `The software group 'spack' <https://docs.google.com/document/d/1ihajkaYzATiWVCJmsg37KJ4f3PFqtLFjsnEdghWqzRs>`_ contains `a wide variety of bioinformatics packages <https://projects.ncsu.edu/hpc/Software/examples/spack/current.html>`_, although they are usually not the latest versions. 
 *       Many bioinformatics packages are most appropriately installed with a Conda environment.  `Here are instructions for creating Conda environments. <https://projects.ncsu.edu/hpc/Software/Apps.php?app=Conda>`_
 
 Running bioinformatics software on the HPC 
