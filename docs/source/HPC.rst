@@ -24,6 +24,7 @@ Just as with any new tool, there is a learning curve to using the HPC.  Before u
 Please see the following resources before you begin:
 
 * `Quick Start Tutorial <https://projects.ncsu.edu/hpc/Guide/>`_
+* `Getting Started on Henry2 <https://projects.ncsu.edu/hpc/Documents/GetStarted.php>`_
 * `HPC training and events <https://projects.ncsu.edu/hpc/Documents/UserTraining.php>`_
 * `HPC contact information and consulting <https://projects.ncsu.edu/hpc/Documents/TempAskQuestion.php>`_ 
 
